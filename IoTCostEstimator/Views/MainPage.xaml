@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="IoTCostEstimator.MainPage">
+             x:Class="IoTCostEstimator.Views.MainPage">
 
     <ScrollView>
         <VerticalStackLayout
@@ -11,15 +11,15 @@
                 Source="iot_logo_source.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a submarine number ten" />
+                SemanticProperties.Description="Logo for Iot Cost Estimator" />
 
             <Label
-                Text="IOT Cost Estimator"
+                Text="IOT Project Cost Estimator"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Welcome to the IOT Project Cost Estimator"
+                Text="Welcome to the IOT Project Cost Estimator. This application will help you estimate the cost of your IOT project."
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
