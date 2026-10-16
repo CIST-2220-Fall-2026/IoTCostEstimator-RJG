@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace IoTCostEstimator
+namespace ProjectCostEstimator
 {
     public static class MauiProgram
     {

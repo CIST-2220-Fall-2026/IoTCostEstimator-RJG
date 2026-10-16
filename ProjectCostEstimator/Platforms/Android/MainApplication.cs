@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace IoTCostEstimator
+namespace ProjectCostEstimator
 {
     [Application]
     public class MainApplication : MauiApplication

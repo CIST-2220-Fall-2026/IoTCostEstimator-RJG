@@ -1,6 +1,6 @@
 using Foundation;
 
-namespace IoTCostEstimator
+namespace ProjectCostEstimator
 {
     [Register("SceneDelegate")]
     public class SceneDelegate : MauiUISceneDelegate

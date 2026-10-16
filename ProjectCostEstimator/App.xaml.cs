@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace IoTCostEstimator
+namespace ProjectCostEstimator
 {
     public partial class App : Application
     {
