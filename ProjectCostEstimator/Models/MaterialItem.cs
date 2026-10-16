@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IoTCostEstimator.Models
+namespace ProjectCostEstimator.Models
 {
     public class MaterialItem
     {

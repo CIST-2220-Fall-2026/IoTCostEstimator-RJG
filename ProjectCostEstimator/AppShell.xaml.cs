@@ -1,4 +1,4 @@
-﻿namespace IoTCostEstimator
+﻿namespace ProjectCostEstimator
 {
     public partial class AppShell : Shell
     {

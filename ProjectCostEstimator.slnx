@@ -3,7 +3,7 @@
     <File Path="DesignSources/iot_appicon_source.svg" />
     <File Path="DesignSources/iot_logo_source.svg" />
   </Folder>
-  <Project Path="IoTCostEstimator/IoTCostEstimator.csproj">
+  <Project Path="ProjectCostEstimator/ProjectCostEstimator.csproj">
     <Deploy Solution="Debug|*" />
   </Project>
 </Solution>

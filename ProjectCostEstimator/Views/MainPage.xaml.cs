@@ -1,4 +1,4 @@
-﻿namespace IoTCostEstimator.Views
+﻿namespace ProjectCostEstimator.Views
 {
     public partial class MainPage : ContentPage
     {

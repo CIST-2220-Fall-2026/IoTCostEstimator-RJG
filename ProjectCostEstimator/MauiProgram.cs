@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace IoTCostEstimator
+namespace ProjectCostEstimator
 {
     public static class MauiProgram
     {
@@ -16,7 +16,7 @@ namespace IoTCostEstimator
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

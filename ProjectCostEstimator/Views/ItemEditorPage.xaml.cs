@@ -1,13 +1,13 @@
-using IoTCostEstimator.Models;
+using ProjectCostEstimator.Models;
 
-namespace IoTCostEstimator.Views;
+namespace ProjectCostEstimator.Views;
 
 public partial class ItemEditorPage : ContentPage
 {
-	public ItemEditorPage()
-	{
-		InitializeComponent();
-	}
+    public ItemEditorPage()
+    {
+        InitializeComponent();
+    }
 
     private async void SubmitButton_Clicked(object sender, EventArgs e)
     {
